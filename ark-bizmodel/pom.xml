@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>egovframework.template.web</groupId>
-	<artifactId>Simple_Homepage</artifactId>
+	<groupId>com.arkwith</groupId>
+	<artifactId>Arkwith_Homepage</artifactId>
 	<packaging>war</packaging>
 	<version>3.5.0</version>
-	<name>Template-Web-Simple_Homepage</name>
-	<url>http://www.egovframe.go.kr</url>
+	<name>Arkwith_Homepage</name>
+	<url>http://www.arkwith.com</url>
 
 	<licenses>
 		<license>
