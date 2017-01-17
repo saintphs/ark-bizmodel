@@ -807,7 +807,7 @@ ul.project_info li span {color:#979797;}
 /*-----------------------------------------------------------------------------------*/
 
 
-#pr_sec {
+#services {
 padding : 70px 0;
 }
 .service {
@@ -975,7 +975,7 @@ top : -50px;
 /*-----------------------------------------------------------------------------------*/
 /*	TESTIMONIALS
 /*-----------------------------------------------------------------------------------*/
-#news {padding:75px 0 50px;}
+#research {padding:75px 0 50px;}
 
 .testimonials{margin-bottom:77px;}
 .testim_content {
@@ -2074,7 +2074,7 @@ input[type="color"]:focus {
 	
 	
 	
-	#news .recent_posts {width:450px; margin:0 auto;}
+	#research .recent_posts {width:450px; margin:0 auto;}
 	
 	
 /* __________ Blog __________ */
@@ -2160,7 +2160,7 @@ input[type="color"]:focus {
 	.testimonials .owl-theme .owl-controls {top:0;}
 	
 	
-	#news .recent_posts {width:290px;}
+	#research .recent_posts {width:290px;}
 	
 	
 /* __________ Blog __________ */
